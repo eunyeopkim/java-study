@@ -32,5 +32,6 @@
 	</build>
 	<modules>
 		<module>chapter03</module>
+		<module>chapter04</module>
 	</modules>
 </project>
